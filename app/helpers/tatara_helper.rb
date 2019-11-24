@@ -1,0 +1,2 @@
+module TataraHelper
+end
